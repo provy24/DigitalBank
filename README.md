@@ -16,8 +16,6 @@ This software also has the feature to connect different systems in to a network 
   <li>login alert mail comes on login, transfer amt. and mail comes on Transaction</li>
 </ul>
 
-<img src="https://miro.medium.com/max/940/1*DPWDR7j5lMdgXWjspe-LpA.png" alt="Layered Architecture" height="400" width="400"></img>
-<img src="https://herbertograca.files.wordpress.com/2017/07/2010s-layered-architecture.png" alt="Layered Architecture" height="400" width="400"></img>
 
 <h3>Software Requirements</h3>
 <ul>
